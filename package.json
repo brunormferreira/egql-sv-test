@@ -1,0 +1,18 @@
+{
+  "name": "gql-server",
+  "version": "1.0.0",
+  "description": "A basic introduction to express-graphql.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:2": "node server2.js"
+  },
+  "keywords": [],
+  "author": "Bruno Ramires",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  }
+}
